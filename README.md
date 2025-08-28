@@ -1,5 +1,3 @@
-# code-u-level-2
-
 What is A.I.?
 
 “AI” is a marketing term. It doesn't refer to a coherent set of technologies. Instead, the phrase “artificial intelligence” is deployed when the people building or selling a particular set of technologies will profit from getting others to believe that their technology is similar to humans, able to do things that, in fact, intrinsically require human judgement, perception, or creativity. [^1]
@@ -49,9 +47,15 @@ Deterministic algorithms always produce the exact same output given the same inp
 
 One of the fastest, general-purpose sorting algorithms is Quicksort which randomly divides the work into smaller parts. Because it uses randomness, it is non-deterministic.
 
+Quicksort vs Bubble sort video: [https://www.youtube.com/watch?v=aXXWXz5rF64](https://www.youtube.com/watch?v=aXXWXz5rF64)
+
 Check For Understanding:
 - A filtering algorithm removes some elements from a dataset. Give me an example of how a deterministic filtering algorithm might behave. How might a non-deterministic filtering algorithm behave.
 - Give me an example of how you would test a deterministic algorithm. 
+
+Deterministic algorithms usually can be tested with several simple test.
+
+Non-deterministic algorithms must be tested with MANY repeated test. This is known as the Monte Carlo method [https://en.wikipedia.org/wiki/Monte_Carlo_method](https://en.wikipedia.org/wiki/Monte_Carlo_method). The more tests you run, the closer you get to the accurate probabilities. This is related to the Law of Large Numbers [https://en.wikipedia.org/wiki/Law_of_large_numbers](https://en.wikipedia.org/wiki/Law_of_large_numbers)
 
 VOCAB
 
