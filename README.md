@@ -64,7 +64,7 @@ You might hear multiple, related terms used to refer to randomness:
 - Stochastic means that a system is designed with some randomness and the probabilites are known.
 - A Stochastic Process is a random change occurring in relation to time.
 
-For the purposes of this course, I would like you to remember Deterministic, Nondeterministic, and Stochasitc.
+For the purposes of this course, I would like you to remember the terms Deterministic, Nondeterministic, and Stochasitc.
 
 VOCAB
 
