@@ -45,7 +45,7 @@ Many sorting algorithms are deterministic.
 
 Deterministic algorithms always produce the exact same output given the same input. Non-deterministic might produce different output with the same input.
 
-One of the fastest, general-purpose sorting algorithms is Quicksort which randomly divides the work into smaller parts. Because it uses randomness, it is non-deterministic.
+One of the fastest, general-purpose sorting algorithms is Quicksort which randomly divides the work into smaller parts. Because it uses randomness, it is nondeterministic.
 
 Quicksort vs Bubble sort video: [https://www.youtube.com/watch?v=aXXWXz5rF64](https://www.youtube.com/watch?v=aXXWXz5rF64)
 
@@ -55,7 +55,9 @@ Check For Understanding:
 
 Deterministic algorithms usually can be tested with several simple test.
 
-Non-deterministic algorithms must be tested with MANY repeated test. This is known as the Monte Carlo method [https://en.wikipedia.org/wiki/Monte_Carlo_method](https://en.wikipedia.org/wiki/Monte_Carlo_method). The more tests you run, the closer you get to the accurate probabilities. This is related to the Law of Large Numbers [https://en.wikipedia.org/wiki/Law_of_large_numbers](https://en.wikipedia.org/wiki/Law_of_large_numbers)
+Nondeterministic algorithms must be tested with MANY repeated test. This is known as the Monte Carlo method [https://en.wikipedia.org/wiki/Monte_Carlo_method](https://en.wikipedia.org/wiki/Monte_Carlo_method). The more tests you run, the closer you get to the accurate probabilities. This is related to the Law of Large Numbers [https://en.wikipedia.org/wiki/Law_of_large_numbers](https://en.wikipedia.org/wiki/Law_of_large_numbers)
+
+You might hear the terms stochastic or probabilistic used when discussing nondeterministic algorithms. The three terms (nondeterministic, stochastic, probabilistic) are related, but have slight differences. Nondeterministic means that the system may not produce the same exact output when given the same input. Stochastic means that a system is designed with some randomness and the probabilites are known. Probabilistic means involving random chance. In statistics, there is also a Stochastic process which is a random change occurring in relation to time.
 
 VOCAB
 
@@ -69,12 +71,15 @@ deterministic
 : an algorithm that will always produce the same predictable output when given the same input
 filtering
 : selecting keeping or removing specific items in a larger dataset
-Machine learning
+Machine Learning
 : Also known as ML, a field of study that gives computers the ability to make connections and perform a task without being explicitly programmed 
+nondeterministic
+: an algorithm that may not produce the same exact output when given the same input
 prioritization
 : the action or process of deciding the rank, importance, or urgency of items
 stochastic
-: an algorithm that uses randomness to solve a problem and may not produce the same exact output when given the same input
+: a system that is designed with some randomness and the probabilites are known
+
 
 
 
