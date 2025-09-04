@@ -57,7 +57,13 @@ Deterministic algorithms usually can be tested with several simple test.
 
 Nondeterministic algorithms must be tested with MANY repeated test. This is known as the Monte Carlo method [https://en.wikipedia.org/wiki/Monte_Carlo_method](https://en.wikipedia.org/wiki/Monte_Carlo_method). The more tests you run, the closer you get to the accurate probabilities. This is related to the Law of Large Numbers [https://en.wikipedia.org/wiki/Law_of_large_numbers](https://en.wikipedia.org/wiki/Law_of_large_numbers)
 
-You might hear the terms stochastic or probabilistic used when discussing nondeterministic algorithms. The three terms (nondeterministic, stochastic, probabilistic) are related, but have slight differences. Nondeterministic means that the system may not produce the same exact output when given the same input. Stochastic means that a system is designed with some randomness and the probabilites are known. Probabilistic means involving random chance. In statistics, there is also a Stochastic process which is a random change occurring in relation to time.
+You might hear multiple, related terms used to refer to randomness:
+- Nondeterministic means that the system may not produce the same exact output when given the same input.
+- Probabilistic means involving random chance.
+- Stochastic means that a system is designed with some randomness and the probabilites are known.
+- A Stochastic Process is a random change occurring in relation to time.
+
+For the purposes of this course, I would like you to remember Deterministic, Nondeterministic, and Stochasitc.
 
 VOCAB
 
@@ -77,6 +83,10 @@ nondeterministic
 : an algorithm that may not produce the same exact output when given the same input
 prioritization
 : the action or process of deciding the rank, importance, or urgency of items
+search algorithm
+: an algorithm for locating a specific value within a list or determining that that the value in not present
+sorting algorithm
+: an algorithm that puts elements of a list into an order
 stochastic
 : a system that is designed with some randomness and the probabilites are known
 
