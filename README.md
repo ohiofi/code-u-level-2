@@ -1,6 +1,6 @@
 What is A.I.?
 
-“AI” is a marketing term. It doesn't refer to a coherent set of technologies. Instead, the phrase “artificial intelligence” is deployed when the people building or selling a particular set of technologies will profit from getting others to believe that their technology is similar to humans, able to do things that, in fact, intrinsically require human judgement, perception, or creativity. [^1]
+"AI" is a marketing term. It doesn't refer to a coherent set of technologies. Instead, the phrase “artificial intelligence” is deployed when the people building or selling a particular set of technologies will profit from getting others to believe that their technology is similar to humans, able to do things that, in fact, intrinsically require human judgement, perception, or creativity. [^1]
 
 According to Bender and Hanna[^1], the term AI is commonly used when referencing automation of:
 - Decision making
@@ -69,8 +69,9 @@ For the purposes of this course, I would like you to remember Deterministic, Non
 VOCAB
 
 <dl>
+  <dt>algorithm</dt><dd>a set of steps for a computer program to accomplish a task.</dd>
+  
   <dt>Artificial Intelligence</dt><dd>Also know as AI, a marketing term for technology that is similar to human</dd>
-
 
   <dt>association</dt><dd>finding patterns, connections, or relationships between items</dd>
 
