@@ -67,29 +67,42 @@ For the purposes of this course, I would like you to remember Deterministic, Non
 
 VOCAB
 
-Artificial Intelligence
-: Also know as AI, a marketing term for technology that is similar to human
-association
-: finding patterns, connections, or relationships between items
-classification
-: selecting categories for items according to shared qualities or characteristics
-deterministic
-: an algorithm that will always produce the same predictable output when given the same input
-filtering
-: selecting keeping or removing specific items in a larger dataset
-Machine Learning
-: Also known as ML, a field of study that gives computers the ability to make connections and perform a task without being explicitly programmed 
-nondeterministic
-: an algorithm that may not produce the same exact output when given the same input
-prioritization
-: the action or process of deciding the rank, importance, or urgency of items
-search algorithm
-: an algorithm for locating a specific value within a list or determining that that the value in not present
-sorting algorithm
-: an algorithm that puts elements of a list into an order
-stochastic
-: a system that is designed with some randomness and the probabilites are known
+<dl>
+  <dt>Artificial Intelligence</dt><dd>Also know as AI, a marketing term for technology that is similar to human</dd>
 
+
+  <dt>association</dt><dd>finding patterns, connections, or relationships between items</dd>
+
+
+  <dt>classification</dt><dd>selecting categories for items according to shared qualities or characteristics</dd>
+
+
+  <dt>deterministic algorithm</dt><dd>an algorithm that will always produce the same predictable output when given the same input</dd>
+
+
+  <dt>filtering</dt><dd>selecting, keeping, or removing specific items in a larger dataset</dd>
+
+
+  <dt>Machine Learning</dt><dd>Also known as ML, a field of study that gives computers the ability to make connections and perform a task without being explicitly programmed </dd>
+
+
+  <dt>nondeterministic algorithm</dt><dd>an algorithm that may not produce the same exact output when given the same input</dd>
+
+
+  <dt>prioritization</dt><dd>deciding the rank, importance, or urgency of items</dd>
+
+
+  <dt>search algorithm</dt><dd>an algorithm for locating a specific value within a list or determining that that the value in not present</dd>
+
+
+  <dt>sorting algorithm</dt><dd>an algorithm that puts elements of a list into an order</dd>
+
+
+  <dt>stochastic algorithm</dt><dd>an algorithm that is designed with some randomness and the probabilites are known</dd>
+
+
+<dt></dt><dd></dd>
+</dl>
 
 
 
