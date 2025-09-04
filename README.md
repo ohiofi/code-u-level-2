@@ -58,6 +58,7 @@ Deterministic algorithms usually can be tested with several simple test.
 Nondeterministic algorithms must be tested with MANY repeated test. This is known as the Monte Carlo method [https://en.wikipedia.org/wiki/Monte_Carlo_method](https://en.wikipedia.org/wiki/Monte_Carlo_method). The more tests you run, the closer you get to the accurate probabilities. This is related to the Law of Large Numbers [https://en.wikipedia.org/wiki/Law_of_large_numbers](https://en.wikipedia.org/wiki/Law_of_large_numbers)
 
 You might hear multiple, related terms used to refer to randomness:
+- Deterministic means nonrandom. Always produces the same predictable output when given the same input.
 - Nondeterministic means that the system may not produce the same exact output when given the same input.
 - Probabilistic means involving random chance.
 - Stochastic means that a system is designed with some randomness and the probabilites are known.
