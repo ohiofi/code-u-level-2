@@ -77,11 +77,13 @@ VOCAB
 
   <dt>classification</dt><dd>selecting categories for items according to shared qualities or characteristics</dd>
 
+  <dt>computer vision</dt><dd>a field of study concerned with giving computers the ability to find patterns in images and video</dd>
+
   <dt>deterministic algorithm</dt><dd>an algorithm that will always produce the same predictable output when given the same input</dd>
 
   <dt>filtering</dt><dd>selecting, keeping, or removing specific items in a larger dataset</dd>
 
-  <dt>Machine Learning</dt><dd>Also known as ML, a field of study that gives computers the ability to make connections and perform a task without being explicitly programmed </dd>
+  <dt>machine learning</dt><dd>Also known as ML, a field of study concerned with giving computers the ability to make connections and perform a task without being explicitly programmed </dd>
 
   <dt>machine learning algorithm</dt><dd>an algorithm that receives training data, analyses the data to look for patterns, and attempts to predict correct outputs based on its training</dd>
 
