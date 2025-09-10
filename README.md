@@ -71,7 +71,7 @@ VOCAB
 <dl>
   <dt>algorithm</dt><dd>a set of steps for a computer program to accomplish a task.</dd>
   
-  <dt>Artificial Intelligence</dt><dd>Also know as AI, a marketing term for technology that is similar to human</dd>
+  <dt>Artificial Intelligence</dt><dd>Also known as AI, a marketing term for technology that is similar to human</dd>
 
   <dt>association</dt><dd>finding patterns, connections, or relationships between items</dd>
 
@@ -95,7 +95,7 @@ VOCAB
 
   <dt>sorting algorithm</dt><dd>an algorithm that puts elements of a list into an order</dd>
 
-  <dt>stochastic algorithm</dt><dd>an algorithm that is designed with some randomness and the probabilites are known</dd>
+  <dt>stochastic algorithm</dt><dd>an algorithm that is designed with some randomness and the probabilities are known</dd>
 
 
 <dt></dt><dd></dd>
@@ -105,44 +105,7 @@ VOCAB
 
 
 
-Vocab
 
-LLM
-: Large Language Model, 
-AGI
-: Artificial General Intelligence,
-Classification 
-:
-OCR
-: Optical Character Recognition, a technology used to extract text from images or screenshots
-GPT
-: Generative Pre-trained Transformer, a type of neural net model used by some chatbots. Also General Purpose Technology, a hypothetical machine that can do everything.
-FOMO
-: Fear of missing out, anxiety that you might be excluded from beneficial events or experiences
-p(doom)
-: probability of doom, a percentage that expresses someone’s personal outlook of the probability of AI dystopia
-supervised learning
-: a strategy in which an algorithm is fed data with input and output labels. Also known as a pre-trained model
-unsupervised learning
-: a strategy 
-perceptron
-: a mathematical function that independently would be considered a single-layer neural net. Typically connected in a multi-layer network with each given a weight
-ELIZA
-:
-MIT
-:
-Agency
-: freedom of choice
-corpus
-:
-enshittification
-:
-SEO
-: Search Engine Optimization
-crowdwork 
-: low-paid workers filtering, labeling, or correcting content often in ways that are unseen and unattributed for end users
-outsourcing 
-:
 
 
 1713: In the book "Ars Conjectandi" Jacob Bernoulli presents the weak Law of Large Numbers. If you keep flipping an unbiased coin, the proportion of heads-to-tail will start out uneven, but will approach 50-50 as the number of flips approaches infinity.
@@ -254,6 +217,46 @@ November 2023, the estates of the two named plaintiffs, deceased at the time of 
 2023: Columbus Dispatch caught using AI when an article states: <code>“The Worthington Christian \[\[WINNING-TEAM-MASCOT\]\] defeated the Westerville North \[\[LOSING-TEAM-MASCOT\]\] 2-1 in an Ohio boys soccer game on Saturday.”</code> [Source](https://www.npr.org/2023/09/09/1198582885/opinion-high-schoolers-can-do-what-ai-cant)
 
 June 2024: Microsoft announces a Windows 11 feature called “Recall” that takes a screenshot every 5 seconds and feeds the screenshot to an AI.[^1]
+
+
+Vocab
+
+LLM
+: Large Language Model, 
+AGI
+: Artificial General Intelligence,
+Classification 
+:
+OCR
+: Optical Character Recognition, a technology used to extract text from images or screenshots
+GPT
+: Generative Pre-trained Transformer, a type of neural net model used by some chatbots. Also General Purpose Technology, a hypothetical machine that can do everything.
+FOMO
+: Fear of missing out, anxiety that you might be excluded from beneficial events or experiences
+p(doom)
+: probability of doom, a percentage that expresses someone’s personal outlook of the probability of AI dystopia
+supervised learning
+: a strategy in which an algorithm is fed data with input and output labels. Also known as a pre-trained model
+unsupervised learning
+: a strategy 
+perceptron
+: a mathematical function that independently would be considered a single-layer neural net. Typically connected in a multi-layer network with each given a weight
+ELIZA
+:
+MIT
+:
+Agency
+: freedom of choice
+corpus
+:
+enshittification
+:
+SEO
+: Search Engine Optimization
+crowdwork 
+: low-paid workers filtering, labeling, or correcting content often in ways that are unseen and unattributed for end users
+outsourcing 
+:
 
 
 Sources
