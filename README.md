@@ -128,6 +128,10 @@ Khan Academy: Origin of Markov chains (1st half of video) https://www.khanacadem
 
 Khan Academy: Origin of Markov chains (2nd half of video) [https://youtu.be/Ws63I3F7Moc?t=185](https://youtu.be/Ws63I3F7Moc?t=185)
 
+Finite State Machine: [https://en.wikipedia.org/wiki/Finite-state_machine](https://en.wikipedia.org/wiki/Finite-state_machine)
+
+Markov Chain: [https://en.wikipedia.org/wiki/Markov_chain](https://en.wikipedia.org/wiki/Markov_chain)
+
 1942, science fiction writer Isaac Asimov writes Three Law of Robotics:
 1. A robot may not injure a human being or, through inaction, allow a human being to come to harm.
 2. A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.
