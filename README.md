@@ -108,7 +108,7 @@ VOCAB
 
 
 
-
+### 1700
 
 1713: In the book "Ars Conjectandi" Jacob Bernoulli presents the weak Law of Large Numbers. If you keep flipping an unbiased coin, the proportion of heads-to-tail will start out uneven, but will approach 50-50 as the number of flips approaches infinity.
 
@@ -116,13 +116,17 @@ Khan Academy: Origin of Markov chains (1st half of video) https://www.khanacadem
 
 1770: The first Mechanical Turk is constructed. This fake, chess-playing robot is actually operated by a hidden human inside of the machine. As a child, Theodore Roosevelt saw one in London ~1870.[^3]
 
+### 1800
+
 1811: During the Industrial Revolution in England, weavers were being replaced by weaving machines. The Luddites smashed the weaving machines that automated their jobs. Today the term is used to mean a person that rejects or refuses to learn new technology. The Luddites were most likely protesting unsafe working conditions, long hours, and low pay.[^1]
+
+### 1900
 
 1900, Clever Hans is a traveling circus attraction. Presented as a horse that can do arithmetic by tapping its hoof. The horse is not actually doing math but is reading the body language of the people in the room.
 
 1906, Andrey Markov applies Bernoulli's law of large numbers to sequences of vowels and consonants in text. He was trying to prove that the law of large numbers applies to natural systems (dependent variables).
 
-Khan Academy: Origin of Markov chains (2nd half of video) https://www.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/markov_chains
+Khan Academy: Origin of Markov chains (2nd half of video) [https://youtu.be/Ws63I3F7Moc?t=185](https://youtu.be/Ws63I3F7Moc?t=185)
 
 1942, science fiction writer Isaac Asimov writes Three Law of Robotics:
 1. A robot may not injure a human being or, through inaction, allow a human being to come to harm.
@@ -137,6 +141,8 @@ A.I. boosters will sometimes talk about doomsday scenarios in which intelligent 
 1948, engineer/mathematician Claude Shannon publishes a paper titled "The Mathematical Theory of Communication" which proposes the first n-gram language models based on Markov’s work.[^1]
 
 1948, the vice president of Ford Motor Company coins the term “automation” 
+
+### 1950
 
 1950s, Frank Rosenblatt implements the first neural net based on proposed algorithms by McCulloch and Pitts.[^1]
 
@@ -163,24 +169,21 @@ The Turing Test
 
 1956: mathematician John McCarthy and computer scientist Marvin Minsky organized a summer-long workshop at Dartmouth College in Hanover, New Hampshire, to discuss a set of methods around “thinking machines”. The term “artificial intelligence” is attributed to John McCarthy. Minsky later founded MIT’s A.I. laboratory.
 
-Excerpt From
-The AI Con
-Emily M. Bender
-This material may be protected by copyright.
-
 In the late 1960s, Joseph Weizenbaum, a professor at the Massachusetts Institute of Technology, and contemporary of Minsky, was alarmed by how quickly people attributed agency to automated systems. Weizenbaum developed a chatbot called ELIZA, named for the working-class character in George Bernard Shaw’s Pygmalion who learns to mimic upper-class speech. ELIZA was designed to carry on a conversation in the style of a Rogerian psychotherapist; that is, the program primarily repeated what its users said, reframing their thoughts into questions. …computer scientists used ELIZA to celebrate how thoroughly computers could replicate human labor… A shocked Weizenbaum spent the rest of his life as a critic of AI[^1] 
 
 1970s: In the Stanley Kubrick film “2001: A Space Odyssey” the computer HAL 9000 is an advanced, speech-enabled AI that runs the spaceship. When HAL malfunctions, the humans try to shut it down, but HAL fights back. In the book “The Hitchhiker’s Guide to the Galaxy” by Douglas Adams, the supercomputer Deep Thought is asked to give “the Answer to the Ultimate Question of Life, the Universe and Everything” and 7.5 million years later gives the answer 42.
+
+### 1975
 
 1979: An IBM training presentation includes a slide that states “A computer can never be held accountable, therefore a computer must never make a management decision.” Another slide from the same presentation reads “Putting a bad system on line is like pouring gasoline into a fire.”[^1]
 
 September 1983: Stanislav Petrov chooses to ignore an alarm that Soviet satellites had detected an enemy missile headed for Russian territory. It turns out to be a false alarm. [^2]
 
-
-
 1997: ShotSpotter is a system for detecting gunshots and alerting police. The company claims they have a 97% aggregate accuracy rate and a false positive rate less than 0.5%. Audits in Chicago and NYC found 87-91% were false alarms.[^1]
 
 May 1997: IBM’s Deep Blue defeats chess grandmaster Garry Kasparov
+
+### 2000
 
 Early 2000s, Google Search outpaces human-curated directories like Yahoo! and Lycos. Google’s automated algorithm uses number of links pointing to a site as well as several other technical factors to rank a website. The field of search engine optimization (SEO) is created to try to get one’s website higher in a Google ranking.[^1]
 
@@ -196,9 +199,9 @@ November 2016: Google Brain researcher and deep learning specialist Geoffrey Hin
 
 May 2018: The EU’s General Data Protection Regulation (aka GDPR) goes into effect. The law stresses privacy rights and a person’s control of their personal data. It prevents companies and governments from storing data forever, makes them state why they want to collect your data, and allows the consumer to opt in or opt out.[^1]
 
+### 2020
+
 August 2020, thousands of British students36, unable to take their A-level exams due to the COVID-19 pandemic, received grades calculated based on an algorithm that took as input, among other things, the grades that other students at their schools received in previous years.
-
-
 
 November 2022: Tesla releases Full Self-Driving (FSD) beta mode for North America. 8 months later (June 10, 2023) The Washington Post publishes a report titled “17 Fatalities, 736 Crashes: The Shocking Tolles of Tesla’s Autopilot” [Source](https://www.washingtonpost.com/technology/2023/06/10/tesla-autopilot-crashes-elon-musk/) The website [tesladeaths.com](https://www.tesladeaths.com/) tracks Tesla crash data including each claimed and confirmed FSD autopilot reports.
 
