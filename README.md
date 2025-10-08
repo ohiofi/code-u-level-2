@@ -134,6 +134,8 @@ Markov Chain: [https://en.wikipedia.org/wiki/Markov_chain](https://en.wikipedia.
 
 Finite State Machine: [https://en.wikipedia.org/wiki/Finite-state_machine](https://en.wikipedia.org/wiki/Finite-state_machine)
 
+![Graphic showing four differents traffic light states green-red, yellow-red, red-green, and red-yellow](trafficLightStates.png)
+
 Khan Academy: A mathematical theory of communication [https://www.youtube.com/watch?v=WyAtOqfCiBw](https://www.youtube.com/watch?v=WyAtOqfCiBw)
 
 Vocab:
@@ -144,7 +146,7 @@ Vocab:
 
 <dt>trigram</dt><dd>a sequence two consecutive elements</dd>
 
-<dt>finite state machine</dt><dd> a hardware or software device that has multiple modes and that it can be in only one mode at a time. For example, a traffic light can either be in the greenRed state, yellowRed state, redGreen state, or redYellow state</dd>
+<dt>finite state machine</dt><dd> a hardware or software device that has multiple modes and that it can be in only one mode at a time. For example, a traffic light can either be in the green-red state, yellow-red state, red-green state, or red-yellow state</dd>
 
 <dt>markov chain</dt><dd>.</dd>
 
