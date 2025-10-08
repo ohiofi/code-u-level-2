@@ -134,6 +134,21 @@ Markov Chain: [https://en.wikipedia.org/wiki/Markov_chain](https://en.wikipedia.
 
 Finite State Machine: [https://en.wikipedia.org/wiki/Finite-state_machine](https://en.wikipedia.org/wiki/Finite-state_machine)
 
+Khan Academy: A mathematical theory of communication [https://www.youtube.com/watch?v=WyAtOqfCiBw](https://www.youtube.com/watch?v=WyAtOqfCiBw)
+
+Vocab:
+
+<dt>n-gram</dt><dd>a number of adjacent elements in a particular order</dd>
+<dt>bigram</dt><dd>a sequence two consecutive elements</dd>
+<dt>trigram</dt><dd>a sequence two consecutive elements</dd>
+<dt>finite state machine</dt><dd> a hardware or software device that has multiple modes and that it can be in only one mode at a time. For example, a traffic light can either be in the red state, green state, or yellow state</dd>
+<dt>markov chain</dt><dd>.</dd>
+<dt>law of large numbers</dt><dd>.</dd>
+<dt>monte carlo simulation</dt><dd>.</dd>
+<dt>mechanical turk</dt><dd>.</dd>
+<dt>luddite</dt><dd>.</dd>
+<dt>supervised learning</dt><dd>a strategy in which an algorithm is fed data with input and output labels. Also known as a pre-trained model</dd>
+
 
 
 1942, science fiction writer Isaac Asimov writes Three Law of Robotics:
@@ -248,8 +263,7 @@ FOMO
 : Fear of missing out, anxiety that you might be excluded from beneficial events or experiences
 p(doom)
 : probability of doom, a percentage that expresses someone’s personal outlook of the probability of AI dystopia
-supervised learning
-: a strategy in which an algorithm is fed data with input and output labels. Also known as a pre-trained model
+
 unsupervised learning
 : a strategy 
 perceptron
