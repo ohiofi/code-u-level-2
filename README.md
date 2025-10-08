@@ -139,14 +139,23 @@ Khan Academy: A mathematical theory of communication [https://www.youtube.com/wa
 Vocab:
 
 <dt>n-gram</dt><dd>a number of adjacent elements in a particular order</dd>
+
 <dt>bigram</dt><dd>a sequence two consecutive elements</dd>
+
 <dt>trigram</dt><dd>a sequence two consecutive elements</dd>
-<dt>finite state machine</dt><dd> a hardware or software device that has multiple modes and that it can be in only one mode at a time. For example, a traffic light can either be in the red state, green state, or yellow state</dd>
+
+<dt>finite state machine</dt><dd> a hardware or software device that has multiple modes and that it can be in only one mode at a time. For example, a traffic light can either be in the greenRed state, yellowRed state, redGreen state, or redYellow state</dd>
+
 <dt>markov chain</dt><dd>.</dd>
+
 <dt>law of large numbers</dt><dd>.</dd>
+
 <dt>monte carlo simulation</dt><dd>.</dd>
+
 <dt>mechanical turk</dt><dd>.</dd>
+
 <dt>luddite</dt><dd>.</dd>
+
 <dt>supervised learning</dt><dd>a strategy in which an algorithm is fed data with input and output labels. Also known as a pre-trained model</dd>
 
 
