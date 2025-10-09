@@ -5,9 +5,18 @@ Table of Contents:
    - [What is an algorithm?](#what-is-an-algorithm)
    - [Four categories of algorithms](#four-categories-of-algorithms)
    - [What is a deterministic algorithm?](#what-is-a-deterministic-algorithm)
+   - [Nondeterministic algorithms](#nondeterministic-algorithms)
+   - [Algorithm vocab](#algorithm-vocab)
  - [A.I. Timeline](#ai-timeline)
    - [1700](#1700)
-   - [1800](#1800)  
+   - [1800](#1800)
+   - [1900](#1900)
+   - [Markov chains](#markov-chains)
+   - [Markov vocab](#algorithm-vocab)
+   - [1950](#1950)
+   - [1975](#1975)
+   - [2000](#2000)
+   - [2020](#2020)  
 
 ## What is A.I.?
 
@@ -51,12 +60,15 @@ It's important to understand the difference between deterministic and non-determ
 
 Khan Academy: binary search https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search
 
+
 Many sorting algorithms are deterministic.
 - Selection sort
 - Insertion sort
 - Merge sort (the fastest of these 3)
 
 Deterministic algorithms always produce the exact same output given the same input. Non-deterministic might produce different output with the same input.
+
+### Nondeterministic algorithms
 
 One of the fastest, general-purpose sorting algorithms is Quicksort which randomly divides the work into smaller parts. Because it uses randomness, it is nondeterministic.
 
@@ -65,6 +77,8 @@ Quicksort vs Bubble sort video: [https://www.youtube.com/watch?v=aXXWXz5rF64](ht
 Check For Understanding:
 - A filtering algorithm removes some elements from a dataset. Give me an example of how a deterministic filtering algorithm might behave. How might a non-deterministic filtering algorithm behave.
 - Give me an example of how you would test a deterministic algorithm. 
+
+
 
 Deterministic algorithms usually can be tested with several simple test.
 
@@ -79,7 +93,7 @@ You might hear multiple, related terms used to refer to randomness:
 
 For the purposes of this course, I would like you to remember the terms Deterministic, Nondeterministic, and Stochasitc.
 
-VOCAB
+### ALGORITHM VOCAB
 
 <dl>
   <dt>algorithm</dt><dd>a set of steps for a computer program to accomplish a task.</dd>
@@ -123,9 +137,9 @@ VOCAB
 
 ### 1700
 
-1713: In the book "Ars Conjectandi" Jacob Bernoulli presents the weak Law of Large Numbers. If you keep flipping an unbiased coin, the proportion of heads-to-tail will start out uneven, but will approach 50-50 as the number of flips approaches infinity.
+1713: In the book "Ars Conjectandi" Jacob Bernoulli proved the weak law of large numbers. If you keep flipping an unbiased coin, the proportion of heads-to-tail will start out uneven, but will approach 50-50 as the number of flips approaches infinity.
 
-Khan Academy: Origin of Markov chains (1st half of video) https://www.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/markov_chains
+Khan Academy: Origin of Markov chains (1st half of video) [https://www.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/markov_chains](https://www.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/markov_chains)
 
 1770: The first Mechanical Turk is constructed. This fake, chess-playing robot is actually operated by a hidden human inside of the machine. As a child, Theodore Roosevelt saw one in London ~1870.[^3]
 
@@ -137,7 +151,9 @@ Khan Academy: Origin of Markov chains (1st half of video) https://www.khanacadem
 
 1900, Clever Hans is a traveling circus attraction. Presented as a horse that can do arithmetic by tapping its hoof. The horse is not actually doing math but is reading the body language of the people in the room.
 
-1906, Andrey Markov applies Bernoulli's law of large numbers to sequences of vowels and consonants in text. He was trying to prove that the law of large numbers applies to natural systems (dependent variables).
+1906, Andrey Markov applies Bernoulli's law of large numbers to sequences of vowels and consonants in text. He was trying to prove that the law of large numbers applies to natural systems and dependent variables.
+
+### Markov chains
 
 Khan Academy: Origin of Markov chains (2nd half of video) [https://youtu.be/Ws63I3F7Moc?t=185](https://youtu.be/Ws63I3F7Moc?t=185)
 
@@ -151,7 +167,24 @@ Finite State Machine: [https://en.wikipedia.org/wiki/Finite-state_machine](https
 
 Khan Academy: A mathematical theory of communication [https://www.youtube.com/watch?v=WyAtOqfCiBw](https://www.youtube.com/watch?v=WyAtOqfCiBw)
 
-Vocab:
+
+
+
+1942, science fiction writer Isaac Asimov writes Three Law of Robotics:
+1. A robot may not injure a human being or, through inaction, allow a human being to come to harm.
+2. A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.
+3. A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
+
+Relevant xkcd https://xkcd.com/1613/
+
+A.I. boosters will sometimes talk about doomsday scenarios in which intelligent robots kill humans. There is a shortcut for discussing the probability of A.I. doomsday: p(doom). Why? It can be useful to those creating the tech because it makes them appear powerful—if not godlike—in their technical creation. Doomsday talk can make the tech seem dangerous and cool, and make the doomsayer seem smart and visionary. Doomsday can also distract from current-day problems.
+
+
+1948, engineer/mathematician Claude Shannon publishes a paper titled "The Mathematical Theory of Communication" which proposes the first n-gram language models based on Markov’s work.[^1]
+
+1948, the vice president of Ford Motor Company coins the term “automation” 
+
+### MARKOV VOCAB
 
 <dl>
 <dt>n-gram</dt><dd>a sequence of a specific number of adjacent elements</dd>
@@ -177,20 +210,11 @@ Vocab:
 <dt>pre-trained model</dt><dd>a machine learning model that has already been trained on a vast dataset for a specific task</dd>
 </dl>
 
+<dt>Jacob Bernoulli</dt><dd>wrote the book "Ars Conjectandi" that proved the weak law of large numbers</dl>
 
-1942, science fiction writer Isaac Asimov writes Three Law of Robotics:
-1. A robot may not injure a human being or, through inaction, allow a human being to come to harm.
-2. A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.
-3. A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
+<dt>Claude Shannon</dt><dd>published a paper titled "The Mathematical Theory of Communication" which proposes the first n-gram language models based on Markov’s work</dl>
 
-Relevant xkcd https://xkcd.com/1613/
-
-A.I. boosters will sometimes talk about doomsday scenarios in which intelligent robots kill humans. There is a shortcut for discussing the probability of A.I. doomsday: p(doom). Why? It can be useful to those creating the tech because it makes them appear powerful—if not godlike—in their technical creation. Doomsday talk can make the tech seem dangerous and cool, and make the doomsayer seem smart and visionary. Doomsday can also distract from current-day problems.
-
-
-1948, engineer/mathematician Claude Shannon publishes a paper titled "The Mathematical Theory of Communication" which proposes the first n-gram language models based on Markov’s work.[^1]
-
-1948, the vice president of Ford Motor Company coins the term “automation” 
+<dt>Andrey Markov</dt><dd>applied Bernoulli's law of large numbers to sequences of vowels and consonants in text. He was trying to prove that the law of large numbers applies to natural systems and dependent variables</dl>
 
 ### 1950
 
