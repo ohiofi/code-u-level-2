@@ -2,7 +2,7 @@
 
 Table of Contents:
  - [What is A.I.?](#what-is-ai)
-   - [What is an algorithm?](#what-is-an-algorithm)
+ - [What is an algorithm?](#what-is-an-algorithm)
    - [Four categories of algorithms](#four-categories-of-algorithms)
    - [What is a deterministic algorithm?](#what-is-a-deterministic-algorithm)
    - [Nondeterministic algorithms](#nondeterministic-algorithms)
