@@ -1,4 +1,15 @@
-What is A.I.?
+#code-u-level-2
+
+Table of Contents:
+ - [What is A.I.?](#what-is-ai)
+   - [What is an algorithm?](#what-is-an-algorithm)
+   - [Four categories of algorithms](#four-categories-of-algorithms)
+   - [What is a deterministic algorithm?](#what-is-a-deterministic-algorithm)
+ - [A.I. Timeline](#ai-timeline)
+   - [1700](#1700)
+   - [1800](#1800)  
+
+## What is A.I.?
 
 "AI" is a marketing term. It doesn't refer to a coherent set of technologies. Instead, the phrase “artificial intelligence” is deployed when the people building or selling a particular set of technologies will profit from getting others to believe that their technology is similar to humans, able to do things that, in fact, intrinsically require human judgement, perception, or creativity. [^1]
 
@@ -13,7 +24,7 @@ Automated Decision Making can be very controversial. For example, in the process
 
 These tasks *could* be accomplished by rule-based algorithms. No machine-learning is required.
 
-What is an algorithm?
+### What is an algorithm?
 
 Khan Academy: What is an algorithm and why should you care https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/v/what-are-algorithms
 
@@ -22,6 +33,8 @@ Rule-based algorithms are constructed by a human and are direct and unambiguous.
 Consider the ghosts in the game Pac-Man. They follow rule-based algorithms. https://pacman.fandom.com/wiki/Maze_Ghost_AI_Behaviors
 
 Machine-learning algorithms are inspired by how living creatures learn. You give the machine data, a goal and feedback when it’s on the right track – and leave it to work out the best way of achieving the end.[^2]
+
+### Four categories of algorithms
 
 Fry[^2] states that there are four main categories of algorithms:
 - Prioritization: ranking
@@ -32,7 +45,7 @@ Fry[^2] states that there are four main categories of algorithms:
 Check For Understanding:
 - In which category would you place a sorting algorithm? A search algorithm?
 
-What is a deterministic algorithm?
+### What is a deterministic algorithm?
 
 It's important to understand the difference between deterministic and non-deterministic algorithms. A binary search is a simple example of a deterministic algorithm.
 
@@ -140,7 +153,8 @@ Khan Academy: A mathematical theory of communication [https://www.youtube.com/wa
 
 Vocab:
 
-<dt>n-gram</dt><dd>a number of adjacent elements in a particular order</dd>
+<dl>
+<dt>n-gram</dt><dd>a sequence of a specific number of adjacent elements</dd>
 
 <dt>bigram</dt><dd>a sequence two consecutive elements</dd>
 
@@ -148,18 +162,20 @@ Vocab:
 
 <dt>finite state machine</dt><dd> a hardware or software device that has multiple modes and that it can be in only one mode at a time. For example, a traffic light can either be in the green-red state, yellow-red state, red-green state, or red-yellow state</dd>
 
-<dt>markov chain</dt><dd>.</dd>
+<dt>markov chain</dt><dd>a mathematical system that transitions from one state to another based on probabilities</dd>
 
-<dt>law of large numbers</dt><dd>.</dd>
+<dt>law of large numbers</dt><dd>as the sample size increases, the average result should get closer to the ideal result</dd>
 
-<dt>monte carlo simulation</dt><dd>.</dd>
+<dt>monte carlo simulation</dt><dd>a computational approach that applies the law of large numbers in order to predict and understand the behaviour of systems involving uncertainty</dd>
 
-<dt>mechanical turk</dt><dd>.</dd>
+<dt>mechanical turk</dt><dd>a fake, chess-playing robot</dd>
 
-<dt>luddite</dt><dd>.</dd>
+<dt>luddite</dt><dd>someone who is opposed to new technologies or technological change</dd>
 
-<dt>supervised learning</dt><dd>a strategy in which an algorithm is fed data with input and output labels. Also known as a pre-trained model</dd>
+<dt>supervised learning</dt><dd>a strategy in which an algorithm is fed data with input and output labels</dd>
 
+<dt>pre-trained model</dt><dd>a machine learning model that has already been trained on a vast dataset for a specific task</dd>
+</dl>
 
 
 1942, science fiction writer Isaac Asimov writes Three Law of Robotics:
@@ -186,14 +202,6 @@ VOCAB
 
 Isaac Asimov
 : science fiction writer that created Three Laws of Robotics
-Luddite
-: someone who is opposed to new technologies or technological change
-Markov chain
-: a mathematical system that transitions from one state to another based on probabilities
-Mechanical Turk
-: a fake, chess-playing robot
-n-gram
-: a sequence of a specific number of adjacent symbols
 neural network 
 : multi-layer algorithms that take in multiple inputs then calculate what value to output
 The Turing Test
