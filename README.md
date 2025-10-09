@@ -132,7 +132,7 @@ For the purposes of this course, I would like you to remember the terms Determin
 
 
 
-
+## A.I. Timeline
 
 
 ### 1700
