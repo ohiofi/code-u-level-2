@@ -182,7 +182,7 @@ A.I. boosters will sometimes talk about doomsday scenarios in which intelligent 
 
 1948, engineer/mathematician Claude Shannon publishes a paper titled "The Mathematical Theory of Communication" which proposes the first n-gram language models based on Markov’s work.[^1]
 
-1948, the vice president of Ford Motor Company coins the term “automation” 
+
 
 ### MARKOV VOCAB
 
@@ -216,16 +216,19 @@ A.I. boosters will sometimes talk about doomsday scenarios in which intelligent 
 
 <dt>Andrey Markov</dt><dd>applied Bernoulli's law of large numbers to sequences of vowels and consonants in text. He was trying to prove that the law of large numbers applies to natural systems and dependent variables</dl>
 
+<dt>Isaac Asimov</dt><dd>science fiction writer that created Three Laws of Robotics</dl>
+
 ### 1950
 
 1950s, Frank Rosenblatt implements the first neural net based on proposed algorithms by McCulloch and Pitts.[^1]
 
 1950s: Alan Turing writes a paper titled *Computing Machinery and Intelligence* and states that the question “Can machines think?” Is too vague. He proposes an imitation game to answer a differ question, can humans be fooled by machines? Can a computer-pretending-to-be-a-man can fool a judge more often than a man-pretending-to-be-someone-else? This question is now known as the Turing Test.[^1]
 
+1952, the vice president of Ford Motor Company, John Diebold, coins the term "automation"
+
 VOCAB
 
-Isaac Asimov
-: science fiction writer that created Three Laws of Robotics
+
 neural network 
 : multi-layer algorithms that take in multiple inputs then calculate what value to output
 The Turing Test
