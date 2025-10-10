@@ -205,9 +205,15 @@ A.I. boosters will sometimes talk about doomsday scenarios in which intelligent 
 
 <dt>luddite</dt><dd>someone who is opposed to new technologies or technological change</dd>
 
-<dt>supervised learning</dt><dd>a strategy in which an algorithm is fed data with input and output labels</dd>
+<dt>supervised learning</dt><dd>a type of machine learning where an algorithm learns from examples that include labeled input data and correctly labeled answers</dd>
 
-<dt>pre-trained model</dt><dd>a machine learning model that has already been trained on a vast dataset for a specific task</dd>
+<dt>unsupervised learning</dt><dd>similar to self-supervised learning, a type of machine learning where an algorithm studies data without labels to find hidden patterns, unknown groups, or unusual anomalies</dd>
+
+<dt>self-supervised learning</dt><dd>similar to unsupervised learning, a method where an algorithm creates its own labels from unlabeled data. The algorithm generates variations so it can learn to predict parts of the data from other parts</dd>
+
+<dt>pre-trained model</dt><dd>a machine learning model that has already been trained on a large dataset to perform a specific task</dd>
+
+<dt>self-learning model</dt><dd>a machine learning model thatthat keeps learning and improving on its own as it gets more data or experience</dd>
 
 <dt>Jacob Bernoulli</dt><dd>wrote the book "Ars Conjectandi" that proved the weak law of large numbers</dd>
 
