@@ -189,9 +189,9 @@ A.I. boosters will sometimes talk about doomsday scenarios in which intelligent 
 <dl>
 <dt>n-gram</dt><dd>a sequence of a specific number of adjacent elements</dd>
 
-<dt>bigram</dt><dd>a sequence two consecutive elements</dd>
+<dt>bigram</dt><dd>a sequence of two consecutive elements</dd>
 
-<dt>trigram</dt><dd>a sequence two consecutive elements</dd>
+<dt>trigram</dt><dd>a sequence of three consecutive elements</dd>
 
 <dt>finite state machine</dt><dd> a hardware or software device that has multiple modes and that it can be in only one mode at a time. For example, a traffic light can either be in the green-red state, yellow-red state, red-green state, or red-yellow state</dd>
 
@@ -208,15 +208,16 @@ A.I. boosters will sometimes talk about doomsday scenarios in which intelligent 
 <dt>supervised learning</dt><dd>a strategy in which an algorithm is fed data with input and output labels</dd>
 
 <dt>pre-trained model</dt><dd>a machine learning model that has already been trained on a vast dataset for a specific task</dd>
+
+<dt>Jacob Bernoulli</dt><dd>wrote the book "Ars Conjectandi" that proved the weak law of large numbers</dd>
+
+<dt>Andrey Markov</dt><dd>applied Bernoulli's law of large numbers to sequences of vowels and consonants in text. He was trying to prove that the law of large numbers applies to natural systems and dependent variables</dd>
+
+<dt>Isaac Asimov</dt><dd>science fiction writer that created Three Laws of Robotics</dd>
+
+<dt>Claude Shannon</dt><dd>published a paper titled "The Mathematical Theory of Communication" which proposes the first n-gram language models based on Markov’s work</dd>
+
 </dl>
-
-<dt>Jacob Bernoulli</dt><dd>wrote the book "Ars Conjectandi" that proved the weak law of large numbers</dl>
-
-<dt>Claude Shannon</dt><dd>published a paper titled "The Mathematical Theory of Communication" which proposes the first n-gram language models based on Markov’s work</dl>
-
-<dt>Andrey Markov</dt><dd>applied Bernoulli's law of large numbers to sequences of vowels and consonants in text. He was trying to prove that the law of large numbers applies to natural systems and dependent variables</dl>
-
-<dt>Isaac Asimov</dt><dd>science fiction writer that created Three Laws of Robotics</dl>
 
 ### 1950
 
