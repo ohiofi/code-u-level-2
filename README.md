@@ -209,7 +209,7 @@ A.I. boosters will sometimes talk about doomsday scenarios in which intelligent 
 
 <dt>unsupervised learning</dt><dd>similar to self-supervised learning, a type of machine learning where an algorithm studies data without labels to find hidden patterns, unknown groups, or unusual anomalies</dd>
 
-<dt>self-supervised learning</dt><dd>similar to unsupervised learning, a method where an algorithm creates its own labels from unlabeled data. The algorithm generates variations so it can learn to predict parts of the data from other parts</dd>
+<dt>self-supervised learning</dt><dd>similar to unsupervised learning, a method where an algorithm creates its own labels from unlabeled data. The algorithm generates variations of the data so it can learn to predict missing parts when given incomplete or partial data</dd>
 
 <dt>pre-trained model</dt><dd>a machine learning model that has already been trained on a large dataset to perform a specific task</dd>
 
