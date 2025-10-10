@@ -12,7 +12,7 @@ Table of Contents:
    - [1800](#1800)
    - [1900](#1900)
    - [Markov chains](#markov-chains)
-   - [Markov vocab](#algorithm-vocab)
+   - [Markov vocab](#markov-vocab)
    - [1950](#1950)
    - [1975](#1975)
    - [2000](#2000)
