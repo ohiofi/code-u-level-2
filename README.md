@@ -213,7 +213,7 @@ A.I. boosters will sometimes talk about doomsday scenarios in which intelligent 
 
 <dt>pre-trained model</dt><dd>a machine learning model that has already been trained on a large dataset to perform a specific task</dd>
 
-<dt>self-learning model</dt><dd>a machine learning model thatthat keeps learning and improving on its own as it gets more data or experience</dd>
+<dt>self-learning model</dt><dd>a machine learning model that keeps learning and improving on its own as it gets more data or experience</dd>
 
 <dt>Jacob Bernoulli</dt><dd>wrote the book "Ars Conjectandi" that proved the weak law of large numbers</dd>
 
