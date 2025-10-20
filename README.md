@@ -346,3 +346,5 @@ Sources
 [^2]:Fry, H. (2019). _Hello world: How to be human in the age of the Machine_. Black Swan.
 
 [^3]:McCullough, D. (2007). _Mornings on horseback_. Simon & Schuster.
+
+[^4]:Urwin, R. (2024). _Artificial Intelligence for Developers in easy steps_. In Easy Steps Limited.
