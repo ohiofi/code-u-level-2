@@ -179,6 +179,7 @@ Relevant xkcd https://xkcd.com/1613/
 
 A.I. boosters will sometimes talk about doomsday scenarios in which intelligent robots kill humans. There is a shortcut for discussing the probability of A.I. doomsday: p(doom). Why? It can be useful to those creating the tech because it makes them appear powerful—if not godlike—in their technical creation. Doomsday talk can make the tech seem dangerous and cool, and make the doomsayer seem smart and visionary. Doomsday can also distract from current-day problems.
 
+1945, the first room-sized computer, ENIAC (Electronic Numerical Integrator and Computer), is built.
 
 1948, engineer/mathematician Claude Shannon publishes a paper titled "The Mathematical Theory of Communication" which proposes the first n-gram language models based on Markov’s work.[^1]
 
@@ -227,27 +228,41 @@ A.I. boosters will sometimes talk about doomsday scenarios in which intelligent 
 
 ### 1950
 
-1950s, Frank Rosenblatt implements the first neural net based on proposed algorithms by McCulloch and Pitts.[^1]
+1950s, Frank Rosenblatt implements the first neural net based on proposed algorithms by McCulloch and Pitts.[^1] A neural network is made up of perceptrons which are inspired by how neurons work in human brains. A perceptron is an artificial neuron that takes in some inputs, does a small math calculation on them, and then provides some output. 
+
+Deep learning is a type of machine learning that uses artificial neural networks with multiple layers, where each layer helps the system find more patterns in the data.
 
 1950s: Alan Turing writes a paper titled *Computing Machinery and Intelligence* and states that the question “Can machines think?” Is too vague. He proposes an imitation game to answer a differ question, can humans be fooled by machines? Can a computer-pretending-to-be-a-man can fool a judge more often than a man-pretending-to-be-someone-else? This question is now known as the Turing Test.[^1]
 
 1952, the vice president of Ford Motor Company, John Diebold, coins the term "automation"
 
-VOCAB
-
-
-neural network 
-: multi-layer algorithms that take in multiple inputs then calculate what value to output
-The Turing Test
-: the question of whether a computer-pretending-to-be-a-man can fool an judge more often than a man-pretending-to-be-someone-else
-
 1954: Paul Meehl publishes *Clinical versus Statistical Prediction* which compares the performance of humans and algorithms. Other studies in the half-century since have confirmed Meehl’s findings that algorithms perform better than humans at tasks involving calculating, predicting, and assessing.
 
 1956: mathematician John McCarthy and computer scientist Marvin Minsky organized a summer-long workshop at Dartmouth College in Hanover, New Hampshire, to discuss a set of methods around “thinking machines”. The term “artificial intelligence” is attributed to John McCarthy. Minsky later founded MIT’s A.I. laboratory.
 
-In the late 1960s, Joseph Weizenbaum, a professor at the Massachusetts Institute of Technology, and contemporary of Minsky, was alarmed by how quickly people attributed agency to automated systems. Weizenbaum developed a chatbot called ELIZA, named for the working-class character in George Bernard Shaw’s Pygmalion who learns to mimic upper-class speech. ELIZA was designed to carry on a conversation in the style of a Rogerian psychotherapist; that is, the program primarily repeated what its users said, reframing their thoughts into questions. …computer scientists used ELIZA to celebrate how thoroughly computers could replicate human labor… A shocked Weizenbaum spent the rest of his life as a critic of AI[^1] 
+In the late 1960s, Joseph Weizenbaum, a professor at the Massachusetts Institute of Technology, and contemporary of Minsky, was alarmed by how quickly people attributed agency to automated systems. Weizenbaum developed a chatbot called ELIZA, named for the working-class character in George Bernard Shaw’s Pygmalion who learns to mimic upper-class speech. ELIZA was designed to carry on a conversation in the style of a Rogerian psychotherapist; that is, the program primarily repeated what its users said, reframing their thoughts into questions. Computer scientists used ELIZA to celebrate how thoroughly computers could replicate human labor. Weizenbaum was shocked and disappointed at how humans responded to ELIZA and spent the rest of his life as a critic of AI. [^1] 
 
 1970s: In the Stanley Kubrick film “2001: A Space Odyssey” the computer HAL 9000 is an advanced, speech-enabled AI that runs the spaceship. When HAL malfunctions, the humans try to shut it down, but HAL fights back. In the book “The Hitchhiker’s Guide to the Galaxy” by Douglas Adams, the supercomputer Deep Thought is asked to give “the Answer to the Ultimate Question of Life, the Universe and Everything” and 7.5 million years later gives the answer 42.
+
+VOCAB
+
+automation
+: using technology to do tasks with little or no human help, so that work gets done faster and more accurately.
+
+deep learning
+: a type of machine learning that uses neural networks with many layers to automatically discover patterns and features in large amounts of data.
+
+neural network 
+: a system made up of many perceptrons connected in layers. Each layer processes information and passes it to the next to solve more complex problems.
+
+perceptron
+: an artificial neuron. It is a mathematical function that takes several inputs, multiplies them by assigned weights, performs a simple calculation, and produces an output or decision.
+
+ELIZA
+:
+
+The Turing Test
+: the question of whether a computer-pretending-to-be-a-man can fool an judge more often than a man-pretending-to-be-someone-else
 
 ### 1975
 
@@ -255,15 +270,19 @@ In the late 1960s, Joseph Weizenbaum, a professor at the Massachusetts Institute
 
 September 1983: Stanislav Petrov chooses to ignore an alarm that Soviet satellites had detected an enemy missile headed for Russian territory. It turns out to be a false alarm. [^2]
 
-1997: ShotSpotter is a system for detecting gunshots and alerting police. The company claims they have a 97% aggregate accuracy rate and a false positive rate less than 0.5%. Audits in Chicago and NYC found 87-91% were false alarms.[^1]
+1997: ShotSpotter is a system for detecting gunshots and alerting police. The company claims they have a 97% aggregate accuracy rate and a false positive rate less than 0.5%. Audits in Chicago and NYC found 87-91% were false alarms. [^1]
 
-May 1997: IBM’s Deep Blue defeats chess grandmaster Garry Kasparov
+May 1997: IBM’s Deep Blue defeats chess grandmaster Garry Kasparov by winning 2 games and drawing 3. Deep Blue was running software that could consider 200 million board positions every second, but it technically was NOT an ML system. [^4]
 
 ### 2000
 
 Early 2000s, Google Search outpaces human-curated directories like Yahoo! and Lycos. Google’s automated algorithm uses number of links pointing to a site as well as several other technical factors to rank a website. The field of search engine optimization (SEO) is created to try to get one’s website higher in a Google ranking.[^1]
 
 November 2005: Amazon’s Mechanical Turk (AMT or MTurk) is launched. MTurk is a crowdwork platform for outsourcing labor for small online tasks. In a patent for the service, Amazon refers to it as “artificial artificial intelligence”[^1]
+
+February 2011: IBM's computer system Watson wins it's first game of Jeopardy against Ken Jennings and Brad Rutter. The Watson system is now used by medical professionals.[^4]
+
+2014: Eugene Goostman creates a chatbot that passes the Turing Test. It fools a third of the judges after a 5-minute conversation. The chatbot pretends to be a 13-year-old Ukrainian boy that is currently learning English.[^4]
 
 November 2015: The Google Brain team releases TensorFlow, a popular, open-source machine learning library.[^1]
 
@@ -317,20 +336,15 @@ FOMO
 p(doom)
 : probability of doom, a percentage that expresses someone’s personal outlook of the probability of AI dystopia
 
-unsupervised learning
-: a strategy 
-perceptron
-: a mathematical function that independently would be considered a single-layer neural net. Typically connected in a multi-layer network with each given a weight
-ELIZA
-:
+
+
 MIT
 :
 Agency
 : freedom of choice
 corpus
 :
-enshittification
-:
+
 SEO
 : Search Engine Optimization
 crowdwork 
