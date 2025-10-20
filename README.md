@@ -232,6 +232,10 @@ A.I. boosters will sometimes talk about doomsday scenarios in which intelligent 
 
 Deep learning is a type of machine learning that uses artificial neural networks with multiple layers, where each layer helps the system find more patterns in the data.
 
+[https://en.wikipedia.org/wiki/Neural_network_(machine_learning)](https://en.wikipedia.org/wiki/Neural_network_(machine_learning))
+
+![An artificial neural network with input layers, hidden layers, and output layers](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Artificial_neural_network.svg/1024px-Artificial_neural_network.svg.png)
+
 1950s: Alan Turing writes a paper titled *Computing Machinery and Intelligence* and states that the question “Can machines think?” Is too vague. He proposes an imitation game to answer a differ question, can humans be fooled by machines? Can a computer-pretending-to-be-a-man can fool a judge more often than a man-pretending-to-be-someone-else? This question is now known as the Turing Test.[^1]
 
 1952, the vice president of Ford Motor Company, John Diebold, coins the term "automation"
