@@ -234,7 +234,16 @@ Deep learning is a type of machine learning that uses artificial neural networks
 
 [https://en.wikipedia.org/wiki/Neural_network_(machine_learning)](https://en.wikipedia.org/wiki/Neural_network_(machine_learning))
 
-![An artificial neural network with input layers, hidden layers, and output layers](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Artificial_neural_network.svg/1024px-Artificial_neural_network.svg.png)
+![An artificial neural network with input layers, hidden layers, and output layers](artificial_neural_network.png)
+ABOVE: An artificial neural network is an interconnected group of nodes, inspired by a simplification of neurons in a brain. Here, each circular node represents an artificial neuron and an arrow represents a connection from the output of one artificial neuron to the input of another. [SOURCE](https://en.wikipedia.org/wiki/Neural_network_(machine_learning))
+<hr>
+
+![Simplified neural network training example](simplified_neural_network_training_example.png)
+ABOVE: Simplified example of training a neural network in object detection. The network is trained by multiple images that are known to depict starfish and sea urchins, which are correlated with "nodes" that represent visual aspects, in this case texture and outline. The starfish match with a ringed texture and a star outline, whereas most sea urchins match with a striped texture and oval shape. However, the instance of a ring shaped sea urchin creates a weakly weighted association between them. [SOURCE](https://en.wikipedia.org/wiki/Neural_network_(machine_learning))
+
+<hr>
+![Simplified neural network example](simplified_neural_network_example.png)
+ABOVE: Simplified neural network example for object detection. As seen at the output at right, the network is trained to associate a ringed texture and star outline with a starfish, and a striped texture and oval shape with a sea urchin. In this run, it correctly detects the starfish in the input picture at left. In addition, a shell that was not included in the training gives a weak signal for the oval shape, resulting in a weak signal from only one of two intermediate nodes for the sea urchin output, which may still result in a false positive result (or "hallucination") for sea urchin. In reality, textures and outlines would not be represented by single nodes, but rather by associated weight patterns of multiple nodes. [SOURCE](https://en.wikipedia.org/wiki/Neural_network_(machine_learning))
 
 1950s: Alan Turing writes a paper titled *Computing Machinery and Intelligence* and states that the question “Can machines think?” Is too vague. He proposes an imitation game to answer a differ question, can humans be fooled by machines? Can a computer-pretending-to-be-a-man can fool a judge more often than a man-pretending-to-be-someone-else? This question is now known as the Turing Test.[^1]
 
