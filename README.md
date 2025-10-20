@@ -232,14 +232,14 @@ A.I. boosters will sometimes talk about doomsday scenarios in which intelligent 
 
 Deep learning is a type of machine learning that uses artificial neural networks with multiple layers, where each layer helps the system find more patterns in the data.
 
-[https://en.wikipedia.org/wiki/Neural_network_(machine_learning)](https://en.wikipedia.org/wiki/Neural_network_(machine_learning))
+[https://en.wikipedia.org/wiki/Neural_network_(machine_learning)]( https://en.wikipedia.org/wiki/Neural_network_(machine_learning) )
 
 ![An artificial neural network with input layers, hidden layers, and output layers](artificial_neural_network.png)
-ABOVE: An artificial neural network is an interconnected group of nodes, inspired by a simplification of neurons in a brain. Here, each circular node represents an artificial neuron and an arrow represents a connection from the output of one artificial neuron to the input of another. [SOURCE](https://en.wikipedia.org/wiki/Neural_network_(machine_learning))
+ABOVE: An artificial neural network is an interconnected group of nodes, inspired by a simplification of neurons in a brain. Here, each circular node represents an artificial neuron and an arrow represents a connection from the output of one artificial neuron to the input of another. [SOURCE]( https://en.wikipedia.org/wiki/Neural_network_(machine_learning) )
 <hr>
 
 ![Simplified neural network training example](simplified_neural_network_training_example.png)
-ABOVE: Simplified example of training a neural network in object detection. The network is trained by multiple images that are known to depict starfish and sea urchins, which are correlated with "nodes" that represent visual aspects, in this case texture and outline. The starfish match with a ringed texture and a star outline, whereas most sea urchins match with a striped texture and oval shape. However, the instance of a ring shaped sea urchin creates a weakly weighted association between them. [SOURCE](https://en.wikipedia.org/wiki/Neural_network_(machine_learning))
+ABOVE: Simplified example of training a neural network in object detection. The network is trained by multiple images that are known to depict starfish and sea urchins, which are correlated with "nodes" that represent visual aspects, in this case texture and outline. The starfish match with a ringed texture and a star outline, whereas most sea urchins match with a striped texture and oval shape. However, the instance of a ring shaped sea urchin creates a weakly weighted association between them. [SOURCE]( https://en.wikipedia.org/wiki/Neural_network_(machine_learning) )
 
 <hr>
 ![Simplified neural network example](simplified_neural_network_example.png)
