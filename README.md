@@ -271,39 +271,55 @@ Deep learning is a type of machine learning that uses artificial neural networks
   </figcaption>
 </figure>
 
-
+<hr>
 
 1950s: Alan Turing writes a paper titled *Computing Machinery and Intelligence* and states that the question “Can machines think?” Is too vague. He proposes an imitation game to answer a differ question, can humans be fooled by machines? Can a computer-pretending-to-be-a-man can fool a judge more often than a man-pretending-to-be-someone-else? This question is now known as the Turing Test.[^1]
 
 1952, the vice president of Ford Motor Company, John Diebold, coins the term "automation"
 
-1954: Paul Meehl publishes *Clinical versus Statistical Prediction* which compares the performance of humans and algorithms. Other studies in the half-century since have confirmed Meehl’s findings that algorithms perform better than humans at tasks involving calculating, predicting, and assessing.
+1954: Paul Meehl publishes *Clinical versus Statistical Prediction* which compares the performance of humans and algorithms. Other studies in the half-century since have confirmed Meehl’s findings that algorithms perform better than humans at tasks involving calculating, predicting, and assessing. Humans have biases that affect decision making. Algorithms can *ideally* make decisions without these biases, but human biases can still be added to a system.
 
-1956: mathematician John McCarthy and computer scientist Marvin Minsky organized a summer-long workshop at Dartmouth College in Hanover, New Hampshire, to discuss a set of methods around “thinking machines”. The term “artificial intelligence” is attributed to John McCarthy. Minsky later founded MIT’s A.I. laboratory.
+1956: mathematician John McCarthy and computer scientist Marvin Minsky organized a summer-long workshop at Dartmouth College in Hanover, New Hampshire, to discuss a set of methods around "thinking machines". The term "artificial intelligence" is attributed to John McCarthy. Minsky later founded MIT’s A.I. laboratory.
 
 In the late 1960s, Joseph Weizenbaum, a professor at the Massachusetts Institute of Technology, and contemporary of Minsky, was alarmed by how quickly people attributed agency to automated systems. Weizenbaum developed a chatbot called ELIZA, named for the working-class character in George Bernard Shaw’s Pygmalion who learns to mimic upper-class speech. ELIZA was designed to carry on a conversation in the style of a Rogerian psychotherapist; that is, the program primarily repeated what its users said, reframing their thoughts into questions. Computer scientists used ELIZA to celebrate how thoroughly computers could replicate human labor. Weizenbaum was shocked and disappointed at how humans responded to ELIZA and spent the rest of his life as a critic of AI. [^1] 
+
+1967: The first expert system, [Dendral](https://en.wikipedia.org/wiki/Dendral), is used to assist organic chemists with identifying compounds in spectroscopy data. The program automated the decision-making process and problem-solving behavior of organic chemists. In the 1970s another expert system, [Mycin](https://en.wikipedia.org/wiki/Mycin), is used to advise doctors on medical diagnosis. Mycin uses an inference engine which applies logical rules to the knowledgebase in order to deduce new information. Expert systems aren't common until the 1980s.
 
 1970s: In the Stanley Kubrick film “2001: A Space Odyssey” the computer HAL 9000 is an advanced, speech-enabled AI that runs the spaceship. When HAL malfunctions, the humans try to shut it down, but HAL fights back. In the book “The Hitchhiker’s Guide to the Galaxy” by Douglas Adams, the supercomputer Deep Thought is asked to give “the Answer to the Ultimate Question of Life, the Universe and Everything” and 7.5 million years later gives the answer 42.
 
 VOCAB
+<dl>
+<dt>automation</dt>
+<dd>using technology to perform tasks with little or no human help, so work gets done faster and more accurately</dd>
 
-automation
-: using technology to do tasks with little or no human help, so that work gets done faster and more accurately.
+<dt>bias</dt>
+<dd>an error in a system that unfairly favors or discriminates against something or someone</dd>
 
-deep learning
-: a type of machine learning that uses neural networks with many layers to automatically discover patterns and features in large amounts of data.
+<dt>deep learning</dt>
+<dd>a type of machine learning that uses neural networks with many layers to automatically discover patterns in large amounts of data</dd>
 
-neural network 
-: a system made up of many perceptrons connected in layers. Each layer processes information and passes it to the next to solve more complex problems.
+<dt>ELIZA</dt>
+<dd>an early chatbot that showed how computers could simulate conversation using natural language processing, by pretending to be a therapist</dd>
 
-perceptron
-: an artificial neuron. It is a mathematical function that takes several inputs, multiplies them by assigned weights, performs a simple calculation, and produces an output or decision.
+<dt>expert system</dt>
+<dd>a computer program designed to make decisions like a human expert in a specific field</dd>
 
-ELIZA
-:
+<dt>inference engine</dt>
+<dd>a part of an expert system that uses logical rules and facts from a knowledge base to reach new conclusions or decisions</dd>
 
-The Turing Test
-: the question of whether a computer-pretending-to-be-a-man can fool an judge more often than a man-pretending-to-be-someone-else
+<dt>natural language processing</dt>
+<dd>also known as NLP, a branch of artificial intelligence that helps computers understand, interpret, and respond to human text or speech</dd>
+
+<dt>neural network</dt>
+<dd>a system made up of many perceptrons connected in layers. Each layer processes information and passes it to the next to solve more complex problems</dd>
+
+<dt>perceptron</dt>
+<dd>an artificial neuron. It is a mathematical function that takes several inputs, multiplies them by assigned weights, performs a simple calculation, and produces an output or decision</dd>
+
+<dt>The Turing Test</dt>
+<dd>the question of whether a computer-pretending-to-be-a-man can fool an judge more often than a man-pretending-to-be-someone-else</dd>
+
+</dl>
 
 ### 1975
 
