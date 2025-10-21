@@ -14,6 +14,8 @@ Table of Contents:
    - [Markov chains](#markov-chains)
    - [Markov vocab](#markov-vocab)
    - [1950](#1950)
+   - [Neural Nets](#neural-nets)
+   - [Neural Net vocab](#neural-net-vocab)
    - [1975](#1975)
    - [2000](#2000)
    - [2020](#2020)  
@@ -232,6 +234,8 @@ A.I. boosters will sometimes talk about doomsday scenarios in which intelligent 
 
 Deep learning is a type of machine learning that uses artificial neural networks with multiple layers, where each layer helps the system find more patterns in the data.
 
+### Neural Nets
+
 [https://en.wikipedia.org/wiki/Neural_network_(machine_learning)]( https://en.wikipedia.org/wiki/Neural_network_(machine_learning) )
 
 <figure>
@@ -287,7 +291,8 @@ In the late 1960s, Joseph Weizenbaum, a professor at the Massachusetts Institute
 
 1970s: In the Stanley Kubrick film “2001: A Space Odyssey” the computer HAL 9000 is an advanced, speech-enabled AI that runs the spaceship. When HAL malfunctions, the humans try to shut it down, but HAL fights back. In the book “The Hitchhiker’s Guide to the Galaxy” by Douglas Adams, the supercomputer Deep Thought is asked to give “the Answer to the Ultimate Question of Life, the Universe and Everything” and 7.5 million years later gives the answer 42.
 
-VOCAB
+### NEURAL NET VOCAB
+
 <dl>
 <dt>automation</dt>
 <dd>using technology to perform tasks with little or no human help, so work gets done faster and more accurately</dd>
