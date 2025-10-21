@@ -235,7 +235,7 @@ Deep learning is a type of machine learning that uses artificial neural networks
 [https://en.wikipedia.org/wiki/Neural_network_(machine_learning)]( https://en.wikipedia.org/wiki/Neural_network_(machine_learning) )
 
 <figure>
-  <img src="artificial_neural_network.png" alt="An artificial neural network with input layers, hidden layers, and output layers" style="max-width:50%">
+  <img src="artificial_neural_network.png" alt="An artificial neural network with input layers, hidden layers, and output layers" style="width:50%">
   <figcaption>
     <strong>ABOVE:</strong> An artificial neural network is an interconnected group of nodes, inspired by a simplification of neurons in a brain. 
     Here, each circular node represents an artificial neuron and an arrow represents a connection from the output of one artificial neuron to the input of another. 
@@ -246,7 +246,7 @@ Deep learning is a type of machine learning that uses artificial neural networks
 <hr>
 
 <figure>
-  <img src="simplified_neural_network_training_example.png" alt="Simplified neural network training example" style="max-width:50%">
+  <img src="simplified_neural_network_training_example.png" alt="Simplified neural network training example" style="width:50%">
   <figcaption>
     <strong>ABOVE:</strong> Simplified example of training a neural network in object detection. 
     The network is trained by multiple images that are known to depict starfish and sea urchins, which are correlated with "nodes" that represent visual aspects, 
@@ -259,7 +259,7 @@ Deep learning is a type of machine learning that uses artificial neural networks
 <hr>
 
 <figure>
-  <img src="simplified_neural_network_example.png" alt="Simplified neural network example" style="max-width:50%">
+  <img src="simplified_neural_network_example.png" alt="Simplified neural network example" style="width:50%">
   <figcaption>
     <strong>ABOVE:</strong> Simplified neural network example for object detection. As seen at the output at right, 
     the network is trained to associate a ringed texture and star outline with a starfish, and a striped texture and oval shape with a sea urchin. 
